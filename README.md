@@ -14,4 +14,5 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 
 # Submission File
 For each id in the test set, you must predict a probability for the diagnosed_diabetes variable. The file should contain a header and have the following format:
+
 <img width="453" height="88" alt="submission" src="https://github.com/user-attachments/assets/56b5e1f3-49a1-44fb-ad55-4fd3cd90e66f" />
